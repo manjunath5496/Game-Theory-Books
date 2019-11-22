@@ -28,14 +28,16 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Game-Theory-Books/blob/master/game(15).pdf" style="text-decoration:none;">Strategy: An Introduction to Game Theory</a></b></li>
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Game-Theory-Books/blob/master/game(16).pdf" style="text-decoration:none;">The Complete Idiot's Guide to Game Theory</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Game-Theory-Books/blob/master/game(17).pdf" style="text-decoration:none;">Modern Graph Theory</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Game-Theory-Books/blob/master/game(17).pdf" style="text-decoration:none;">The Art of Strategy: A Game Theorist's Guide to Success in Business and Life</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Game-Theory-Books/blob/master/game(18).pdf" style="text-decoration:none;">Game Theory: Analysis of Conflict</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Game-Theory-Books/blob/master/game(19).pdf" style="text-decoration:none;">Mathematical Game Theory and Applications</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Game-Theory-Books/blob/master/game(20).pdf" style="text-decoration:none;">The Language of Game Theory: Putting Epistemics Into the Mathematics of Games</a></b></li>
   
-
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Game-Theory-Books/blob/master/game(21).pdf" style="text-decoration:none;">Games and information: an introduction to game theory</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Game-Theory-Books/blob/master/game(22).pdf" style="text-decoration:none;">A Guide to Game Theory</a></b></li>
+  
 
 
 
